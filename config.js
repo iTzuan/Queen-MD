@@ -17,19 +17,19 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '805a6c3fa9',
+	'https://zenzapis.xyz': '92ed0c8c3f',
 }
 ////////////////////////////////////////////////////|:|             OWNER DETAILS             |:|//////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.session = process.env.SESSION_ID || 'PUT HERE',
-global.ownername = process.env.OWNER_NAME === undefined ? "DarkWinzo" : process.env.OWNER_NAME
-let fake = process.env.OWNER_NUMBER === undefined ? '94775200935' : process.env.OWNER_NUMBER
+global.session = process.env.SESSION_ID || 'OVFFeERQRUs=',
+global.ownername = process.env.OWNER_NAME === undefined ? "rfndika" : process.env.OWNER_NAME
+let fake = process.env.OWNER_NUMBER === undefined ? '6282121426249' : process.env.OWNER_NUMBER
 global.owner = [`${fake}`]
 global.ownernumber = [`${fake}`]
 global.premium = [`${fake}`]
-global.anticall = process.env.ANTICALL === undefined ? 'false' : process.env.ANTICALL
-global.packname = process.env.PACK_NAME === undefined ? 'Queen-MD' : process.env.PACK_NAME
-global.author = process.env.STICKER_AUTHOR_NAME === undefined ? 'DarkWinzo' : process.env.STICKER_AUTHOR_NAME
+global.anticall = process.env.ANTICALL === undefined ? 'true' : process.env.ANTICALL
+global.packname = process.env.PACK_NAME === undefined ? 'rfndika' : process.env.PACK_NAME
+global.author = process.env.STICKER_AUTHOR_NAME === undefined ? 'rfndika' : process.env.STICKER_AUTHOR_NAME
 global.pmblock = process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK
 global.chatbot_pm = process.env.PM_CHATBOT === undefined ? 'false' : process.env.PM_CHATBOT
 global.chatbot_group = process.env.GROUP_CHATBOT === undefined ? 'false' : process.env.GROUP_CHATBOT
@@ -38,12 +38,12 @@ global.chatbot_group = process.env.GROUP_CHATBOT === undefined ? 'false' : proce
 global.sessionconvert = ['true']                           //This is session id method.....//Don't Change
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.Botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
+global.Botname = 'rfndika'
 global.prefa = ['.']
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 global.mess = {
-        wait: '*ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...⏳️*',
+        wait: '*SEBENTAR*',
         owner: '*🔰️ ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ*',
         group: '*🔰️ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴍᴀᴅᴇ ꜰᴏʀ *ɢʀᴏᴜᴘꜱ* ᴏɴʟʏ !*',
         admin: '*🔰️ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴏɴʟʏ ꜰᴏʀ *ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ !*',
